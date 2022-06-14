@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Scott Currell!
 
-<!--
-**fbscott/fbscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make cool things.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="54%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbscott&theme=maroongold&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td valign="top" width="46%">    
+  
+  ### Top Languages
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbscott&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
